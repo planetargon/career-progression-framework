@@ -1,6 +1,6 @@
 # Planet Argon Career Progression Framework
 
-At Planet Argon, our Career Progression Framework is designed to support the professional growth and satisfaction of our engineering team. This framework includes:
+![Planet Argon logo in colo](assets/planetargonbanner.png) At Planet Argon, our Career Progression Framework is designed to support the professional growth and satisfaction of our engineering team. This framework includes:
 
 01. Detailed [Role Descriptions](01.RoleDescriptions.md) that serve as a foundation for performance evaluations, advancement planning, and recruitment 
 02. Our [Developer Tiers Matrix](02.DeveloperTiersMatrix.md), which provides a clear outline of the skills, expectations, and opportunities expected at each tier; and,
